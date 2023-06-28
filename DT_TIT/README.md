@@ -30,19 +30,6 @@ We provide code in two sub-directories:
 
 
 
-## Cite
-
-Please cite our paper as:
-```
-@article{mao2022TIT,
-  title={Transformer in Transformer as Backbone for Deep Reinforcement Learning},
-  author={Mao, Hangyu and Zhao, Rui and Chen, Hao and Hao, Jianye and Chen, Yiqun and Li, Dong and Zhang, Junge and Xiao, Zhen},
-  journal={arXiv preprint arXiv:2212.14538},
-  year={2022}
-}
-```
-
-
 ## Acknowledgements
 
 Please cite Decision Transformer as:
