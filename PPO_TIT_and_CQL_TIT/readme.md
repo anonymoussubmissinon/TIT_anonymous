@@ -33,20 +33,6 @@ implementations, we are happy to redo the experiments based on yours.
 Our TIT architecture can be found in the paper.
 
 
-
-## Cite
-Please cite our paper as:
-```
-@article{mao2022TIT,
-  title={Transformer in Transformer as Backbone for Deep Reinforcement Learning},
-  author={Mao, Hangyu and Zhao, Rui and Chen, Hao and Hao, Jianye and Chen, Yiqun and Li, Dong and Zhang, Junge and Xiao, Zhen},
-  journal={arXiv preprint arXiv:2212.14538},
-  year={2022}
-}
-```
-
-
-
 ## License
 
 MIT
